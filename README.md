@@ -10,7 +10,10 @@ Reference for project:
 
 I used 10 images for each class to train the model.
 
-For testing i used 2 of each(10)
+For testing i used 2 of each(8).Result : 5 out of 8 correctly predicted.
+
+Accuracy: 62.23%
 
 HoG is good to extarct features and when combined with classifers like KNN or SVM can give good results.
 But this type of model is not recommended as we don't get satisfied accuracy for classification.
+
